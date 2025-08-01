@@ -1,47 +1,37 @@
 <!DOCTYPE html>
-<html lang="es">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>Carta de Presentación</title>
-    <style>
-        body {
-            font-family: 'Georgia', serif;
-            background-color: #fdf6f0;
-            color: #333;
-            margin: 40px;
-            line-height: 1.6;
-        }
-        .carta {
-            max-width: 700px;
-            margin: auto;
-            background-color: #fff;
-            padding: 40px;
-            border-radius: 12px;
-            box-shadow: 0 0 20px rgba(0,0,0,0.1);
-        }
-        h1 {
-            text-align: center;
-            color: #c94f7c;
-        }
-        p {
-            text-align: justify;
-            margin-bottom: 20px;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <title>Carta BCode</title>
+  <style>
+    body {
+      background-color: #ffd1dc;
+      font-family: "Comic Sans MS", cursive, sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+    .carta {
+      background-color: white;
+      padding: 40px;
+      border-radius: 15px;
+      box-shadow: 0px 0px 10px #888888;
+      display: inline-block;
+    }
+    h1 {
+      color: #ff69b4;
+    }
+    p {
+      font-size: 18px;
+      color: #333;
+    }
+  </style>
 </head>
 <body>
-    <div class="carta">
-        <h1>CARTA DE PRESENTACIÓN</h1>
-        <p>Hola, hermosa:</p>
-        <p>Solo quería tomarme un momento para escribirte estas palabras. A veces, los mensajes de WhatsApp o los audios no bastan para expresar todo lo que uno siente. Por eso decidí hacerte esta pequeña carta.</p>
-        <p>Desde que llegaste a mi vida, todo ha cambiado para bien. Tu sonrisa, tu forma de hablar, tu dulzura... hacen que mis días sean mejores. Gracias por ser tú, por dejarme conocerte y por compartir momentos conmigo.</p>
-        <p>No sé qué nos depare el futuro, pero sí sé que quiero seguir construyendo algo bonito contigo. Paso a paso, con calma, con confianza y, sobre todo, con mucho cariño.</p>
-        <p>Esta es solo una muestra de cuánto me importas. Ojalá podamos seguir compartiendo momentos, risas y sueños.</p>
-        <p style="text-align: right; margin-top: 50px;">
-            Con cariño,<br>
-            <strong>tu futuro enamorado Alonzo</strong>
-        </p>
-    </div>
+  <div class="carta">
+    <h1>Para ti 💌</h1>
+    <p>Hola, quería decirte que eres muy especial para mí.</p>
+    <p>Gracias por todos los momentos bonitos que compartimos.</p>
+    <p>Con mucho cariño, de parte de tu <strong>futuro enamorado Alonzo</strong> 💕</p>
+  </div>
 </body>
 </html>
-
